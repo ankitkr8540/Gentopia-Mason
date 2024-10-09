@@ -1,0 +1,24 @@
+1. Title: Trajectory Anomaly Detection with Language Models
+   Year: 2024
+   Venue: arXiv preprint arXiv:2409.15366, 2024
+   Citation: 0
+
+2. Title: Urban Mobility Assessment Using LLMs
+   Year: 2024
+   Venue: arXiv preprint arXiv:2409.00063, 2024
+   Citation: 0
+
+3. Title: Dictionary-Aided Translation for Handling Multi-Word Expressions in Low-Resource Languages
+   Year: 2024
+   Venue: Findings of the Association for Computational Linguistics ACL 2024, 2588-2595, 2024
+   Citation: 0
+
+4. Title: FINDINGS OF THE IWSLT 2024 EVALUATION CAMPAIGN
+   Year: 2024
+   Venue: Proceedings of the 21st International Conference on Spoken Language …, 2024
+   Citation: 0
+
+5. Title: Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models
+   Year: 2024
+   Venue: arXiv preprint arXiv:2407.02067, 2024
+   Citation: 0

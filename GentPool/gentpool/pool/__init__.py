@@ -10,3 +10,4 @@ from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
 from .hw2_agent import *
+from .hw2_agent_2 import *

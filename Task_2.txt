@@ -1,0 +1,112 @@
+Question 8:
+
+User: Hi! Tell me something about George Mason NLP group!
+hw2_agent: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ hw2_agent ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ The George Mason University Natural Language Processing (NLP) group is part of the university's broader research initiatives in computer science and artificial        ┃
+┃ intelligence. The group focuses on various aspects of NLP, including but not limited to machine learning, text analysis, information retrieval, and computational      ┃
+┃ linguistics. Researchers in this group often work on projects that involve developing algorithms and models to understand and generate human language, as well as      ┃
+┃ applications in areas like sentiment analysis, language translation, and dialogue systems.                                                                             ┃
+┃                                                                                                                                                                        ┃
+┃ The group typically collaborates with other departments and institutions, contributing to interdisciplinary research that combines insights from linguistics, computer ┃
+┃ science, and cognitive science. They may also engage in community outreach, workshops, and conferences to share their findings and foster collaboration within the NLP ┃
+┃ research community.                                                                                                                                                    ┃
+┃                                                                                                                                                                        ┃
+┃ For the most current information about their projects, publications, and members, it's best to check their official website or recent publications.                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+User: Who is/are Leading group?
+hw2_agent: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ hw2_agent ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ The term "Leading Group" can refer to different entities depending on the context. It could refer to a specific organization, a coalition of countries, or a group of  ┃
+┃ individuals in a leadership role within a particular field.                                                                                                            ┃
+┃                                                                                                                                                                        ┃
+┃ For example, in the context of international relations, the "Leading Group" might refer to a coalition of countries focused on specific global issues, such as         ┃
+┃ sustainable development or climate change. In a corporate context, it could refer to a group of executives or leaders within a company.                                ┃
+┃                                                                                                                                                                        ┃
+┃ If you have a specific context or organization in mind, please provide more details so I can give you a more accurate answer!                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Question 9:
+
+User: Who is/are leading George Mason NLP group?
+hw2_agent: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ hw2_agent ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ As of my last knowledge update in October 2023, the George Mason University Natural Language Processing (NLP) group is led by Dr. Mark E. B. Wilkins and Dr. D. Scott  ┃
+┃ McDonald. However, faculty and research group leadership can change, so I recommend checking the official George Mason University website or the specific NLP group's  ┃
+┃ page for the most current information.                                                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+User: Find papers written by Ziyu Yao at George Mason University
+hw2_agent: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ hw2_agent ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ I don't have direct access to databases or the internet to search for specific papers or authors. However, you can find papers written by Ziyu Yao at George Mason     ┃
+┃ University by following these steps:                                                                                                                                   ┃
+┃                                                                                                                                                                        ┃
+┃  1 Google Scholar: Go to Google Scholar and enter "Ziyu Yao George Mason University" in the search bar. This should bring up a list of publications associated with    ┃
+┃    that name and institution.                                                                                                                                          ┃
+┃  2 University Repository: Check George Mason University's institutional repository or library website. Many universities have a digital archive of faculty             ┃
+┃    publications.                                                                                                                                                       ┃
+┃  3 ResearchGate or Academia.edu: These platforms allow researchers to share their publications. You can search for Ziyu Yao on these sites.                            ┃
+┃  4 Academic Databases: Use academic databases like PubMed, IEEE Xplore, or JSTOR. You can search for the author's name and filter results by affiliation.              ┃
+┃  5 Contact the Author: If you have trouble finding the papers, consider reaching out directly to Ziyu Yao via email or through their university profile.               ┃
+┃                                                                                                                                                                        ┃
+┃ If you need help with a specific topic or paper, feel free to ask!                                                                                                     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Question 10:
+
+User: Find paper written by Ziyu Yao at George Mason University
+hw2_agent_2: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  Response of hw2_agent_2:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ {"name":"search_author_by_name", "arguments":{"author":"Ziyu Yao, George Mason University","top_k":5}}                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+╭────────────────────────────────────────────────────────────  Function Response of search_author_by_name:  ─────────────────────────────────────────────────────────────╮
+│ {'name': 'Ziyu Yao', 'uid': '4lYrMNUAAAAJ', 'affiliation': 'Assistant Professor, George Mason University', 'interests': ['Natural Language Processing', 'LLMs',        │
+│ 'Human-AI Interaction', 'Question Answering', 'Code Generation'], 'citation': 986}                                                                                     │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+hw2_agent_2: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  Response of hw2_agent_2:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ {"name":"author_uid2paper", "arguments":{"uid":"4lYrMNUAAAAJ","sort_by":"year","top_k":5}}                                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+╭───────────────────────────────────────────────────────────────  Function Response of author_uid2paper:  ───────────────────────────────────────────────────────────────╮
+│ {'title': 'Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models', 'pub_year': '2024', 'venue': 'arXiv │
+│ preprint arXiv:2409.17455, 2024', 'citation': 0}                                                                                                                       │
+│                                                                                                                                                                        │
+│ {'title': 'A practical review of mechanistic interpretability for transformer-based language models', 'pub_year': '2024', 'venue': 'arXiv preprint arXiv:2407.02646,   │
+│ 2024', 'citation': 2}                                                                                                                                                  │
+│                                                                                                                                                                        │
+│ {'title': 'An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs', 'pub_year': '2024', 'venue':   │
+│ 'ACL 2024, 2024', 'citation': 1}                                                                                                                                       │
+│                                                                                                                                                                        │
+│ {'title': 'Look Further Ahead: Testing the Limits of GPT-4 in Path Planning', 'pub_year': '2024', 'venue': 'IEEE CASE 2024, 2024', 'citation': 0}                      │
+│                                                                                                                                                                        │
+│ {'title': 'MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education', 'pub_year': '2024', 'venue': 'arXiv preprint arXiv:2404.06711,       │
+│ 2024', 'citation': 8}                                                                                                                                                  │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+hw2_agent_2: 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  Response of hw2_agent_2:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Here are some papers written by Ziyu Yao at George Mason University:                                                                                                   ┃
+┃                                                                                                                                                                        ┃
+┃  1 Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models                                               ┃
+┃     • Publication Year: 2024                                                                                                                                           ┃
+┃     • Venue: arXiv preprint arXiv:2409.17455, 2024                                                                                                                     ┃
+┃     • Citations: 0                                                                                                                                                     ┃
+┃  2 A practical review of mechanistic interpretability for transformer-based language models                                                                            ┃
+┃     • Publication Year: 2024                                                                                                                                           ┃
+┃     • Venue: arXiv preprint arXiv:2407.02646, 2024                                                                                                                     ┃
+┃     • Citations: 2                                                                                                                                                     ┃
+┃  3 An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs                                          ┃
+┃     • Publication Year: 2024                                                                                                                                           ┃
+┃     • Venue: ACL 2024, 2024                                                                                                                                            ┃
+┃     • Citations: 1                                                                                                                                                     ┃
+┃  4 Look Further Ahead: Testing the Limits of GPT-4 in Path Planning                                                                                                    ┃
+┃     • Publication Year: 2024                                                                                                                                           ┃
+┃     • Venue: IEEE CASE 2024, 2024                                                                                                                                      ┃
+┃     • Citations: 0                                                                                                                                                     ┃
+┃  5 MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education                                                                                ┃
+┃     • Publication Year: 2024                                                                                                                                           ┃
+┃     • Venue: arXiv preprint arXiv:2404.06711, 2024                                                                                                                     ┃
+┃     • Citations: 8                                                                                                                                                     ┃
+┃                                                                                                                                                                        ┃
+┃ If you need more information or additional papers, feel free to ask!                                                                                                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
