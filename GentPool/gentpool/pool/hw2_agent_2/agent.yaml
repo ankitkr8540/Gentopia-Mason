@@ -12,6 +12,8 @@ target_tasks:
   - web search
   - web browsing
   - read pdf
+  - currency conversion
+  - currency exchange
 prompt_template: !prompt VanillaPrompt
 llm:
   model_name: gpt-4o-mini
@@ -32,4 +34,5 @@ plugins:
   - name: google_search
   - name: web_page
   - name: pdf_reader
+  - name: currency_converter
   

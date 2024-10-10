@@ -252,3 +252,198 @@ INFO:root:The PDF titled "Homework 2: Practices of Large Language Models" for th
 This document serves as a comprehensive guide for students to complete their homework effectively, ensuring they understand the tasks and submission requirements. If you need more specific information or details about any section, feel free to ask!
 INFO:root:Done
 INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:{"name":"google_search", "arguments":{"query":"current USD to INR conversion rate"}}
+
+INFO:root:Calling function: google_search ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:SearchResult(url=https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=INR, title=1 USD to INR - US Dollars to Indian Rupees Exchange Rate, description=Convert US Dollar to Indian Rupee ; 1 USD. 83.9262 INR ; 5 USD. 419.631 INR ; 10 USD. 839.262 INR ; 25 USD. 2,098.15 INR ; 50 USD. 4,196.31 INR.)
+
+SearchResult(url=https://wise.com/us/currency-converter/usd-to-inr-rate, title=US dollars to Indian rupees Exchange Rate. Convert USD/ ..., description=Download Our Currency Converter App ; 1 USD, 83.96330 INR ; 5 USD, 419.81650 INR ; 10 USD, 839.63300 INR ; 20 USD, 1,679.26600 INR.)
+
+SearchResult(url=https://www.westernunion.com/us/en/currency-converter/usd-to-inr-rate.html, title=Convert US Dollar to Indian Rupee - INR, description=100 USD, 8407.40 INR ; 250 USD, 21018.50 INR ; 500 USD, 42011.55 INR ; 1000 USD, 84023.10 INR.)
+
+SearchResult(url=https://www.compareremit.com/todays-best-dollar-to-rupee-exchange-rate/, title=USD to INR - Today's Best US Dollar to Rupee Exchange ..., description=USD to INR - Today's Best US Dollar to Rupee Exchange Rate ; Remit2Any Inc. Exchange Rate · 13 Reviews · ₹ 83.79 ; Abound Exchange Rate. 25 Reviews · ₹ 86.00.)
+
+SearchResult(url=https://www.bloomberg.com/quote/USDINR:CUR, title=USD to INR Exchange Rate, description=Current exchange rate US DOLLAR (USD) to INDIAN RUPEE (INR) including currency converter, buying & selling rate and historical conversion chart.)
+
+SearchResult(url=https://www.thomascook.in/foreign-exchange/currency-converter/usd-to-inr, title=USD to INR Live - Convert US Dollar to INR Today at Best ..., description=The current rate of US Dollar to INR is 81.99 The expected High Low is 0.19% For 1 US Dollar, you would receive roughly INR 82. INR 1 = $0.012 INR 100 = $1.22.)
+
+SearchResult(url=https://www.remitly.com/us/en/india/pricing, title=USD to INR Exchange Rates, description=Remitly offers dependable exchange rates for USD to INR with no hidden fees. Join today and get a promotional rate of 83.55 INR to 1 USD on your first money ...)
+
+SearchResult(url=http://m.economictimes.com/markets/forex/currency-converter, title=Currency Converter - 1 USD = 83.975 INR, description=1 USD = 83.975 INR · SELL 1 USD @ 83.9525 INR · BUY 1 USD @ 83.975 INR.)
+
+SearchResult(url=https://www.bookmyforex.com/currency-converter/usd-to-inr/, title=USD to INR | Convert US Dollar to Indian Rupee, description=Today i.e.Thursday 10/10/2024 , for 1 US Dollar you get 83.97 Indian Rupees. Change in USD to INR rate from previous day is -0.01%. Moreover, we have also added ...)
+
+SearchResult(url=https://www.revolut.com/en-US/currency-converter/convert-usd-to-inr-exchange-rate/, title=USD to INR | Convert US Dollars to Indian Rupees ..., description=US Dollars to Indian Rupees conversion rates ; 1 INR, 0.01 USD ; 5 INR, 0.05 USD ; 10 INR, 0.11 USD ; 25 INR, 0.29 USD.)
+
+SearchResult(url=https://wise.com/us/currency-converter/usd-to-inr-rate/history, title=US dollar to Indian rupees Exchange Rate History, description=The exchange rate for US dollar to Indian rupees is currently 83.968 today, reflecting a 0.001% change since yesterday. Over the past week, the value of US ...)
+
+SearchResult(url=https://sbinewyork.statebank/exchange-rate, title=Exchange Rate, description=USD/INR : Indicative Sale Rate ; less than $2,500, 83.15 ; $2,500 to less than $5,000, 83.20 ; $5,000 to less than $25,000, 83.55 ; $25,000 to less than $100,000 ...)
+INFO:root:--------------------
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate of 1 USD to INR is approximately 83.97 INR. You can find more details and updates on various currency converter websites.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate for 1 USD is approximately 83.93 INR.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate of 1 USD to INR is approximately 83.97 INR.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate for 1 USD to INR is approximately 83.93 INR. Conversely, for 1 INR, it is approximately 0.0119 USD.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate of USD to INR is approximately 83.97 INR for 1 USD. Here are the arguments based on the search results:
+
+1. **Source**: XE.com
+   - **Conversion Rate**: 1 USD = 83.9262 INR
+
+2. **Source**: Wise.com
+   - **Conversion Rate**: 1 USD = 83.96330 INR
+
+3. **Source**: Western Union
+   - **Conversion Rate**: 1 USD = 84.02310 INR
+
+4. **Source**: Economic Times
+   - **Conversion Rate**: 1 USD = 83.975 INR
+
+5. **Source**: BookMyForex
+   - **Conversion Rate**: 1 USD = 83.97 INR
+
+These rates may vary slightly depending on the source and the time of the query.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate for 1 USD to INR is approximately 83.97 INR. 
+
+If you need to convert a specific amount, you can use the following arguments:
+
+- **Amount**: The amount in USD you want to convert (e.g., 1 USD).
+- **From**: The currency you are converting from (USD).
+- **To**: The currency you are converting to (INR).
+
+For example, to convert 1 USD to INR, you would use:
+- Amount: 1
+- From: USD
+- To: INR
+
+If you have a specific amount you want to convert, please let me know!
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:{"name":"google_search", "arguments":{"query":"current INR to CAD conversion rate"}}
+
+INFO:root:Calling function: google_search ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:SearchResult(url=https://wise.com/us/currency-converter/inr-to-cad-rate, title=Indian rupees to Canadian dollars Exchange Rate. Convert ..., description=Indian rupees to Canadian dollars today. Convert INR to CAD at the real exchange rate ... Conversion rates Indian Rupee / Canadian Dollar. 1 INR, 0.01634 CAD. 5 ...)
+
+SearchResult(url=https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=CAD, title=1 INR to CAD - Convert Indian Rupees to Canadian Dollars, description=Convert Indian Rupee to Canadian Dollar ; 1 INR. 0.0161607 CAD ; 5 INR. 0.0808034 CAD ; 10 INR. 0.161607 CAD ; 25 INR. 0.404017 CAD ; 50 INR. 0.808034 CAD.)
+
+SearchResult(url=https://www.bookmyforex.com/currency-converter/inr-to-cad/, title=INR to CAD | Convert Indian Rupee to Canadian Dollar, description=Today i.e.Wednesday 09/10/2024 , for 1 Indian Rupees you get 0.016309 Canadian Dollar. Change in INR to CAD rate from previous day is +0.87%. Moreover, we have ...)
+
+SearchResult(url=https://www.forbes.com/advisor/money-transfer/currency-converter/inr-cad/, title=1 INR To CAD Convert Indian Rupee To Canadian Dollar, description=1 INR = 0.016331 CAD Oct 09, 2024 21:32 UTC​​ Check the currency rates against all the world currencies here. The currency converter below is easy to use and the ...)
+
+SearchResult(url=https://www.westernunion.com/in/en/currency-converter/inr-to-cad-rate.html, title=INR to CAD Currency Converter, description=1.00 INR = 0.0160 CAD. Fee: 0.00 INR. Created with Sketch. Exchange Rates and Fees shown are estimates, vary by a number of factors including payment and ...)
+
+SearchResult(url=https://wise.com/us/currency-converter/inr-to-cad-rate/history, title=Indian rupee to Canadian dollars Exchange Rate History, description=The exchange rate for Indian rupee to Canadian dollars is currently 0.016 today, reflecting a 0.087% change since yesterday. Over the past week, the value of ...)
+
+SearchResult(url=https://www.revolut.com/currency-converter/convert-inr-to-cad-exchange-rate/?amount=1, title=1 INR to CAD: Convert Indian Rupees to Canadian Dollars, description=Indian Rupees to Canadian Dollars: exchange rates today ; 1 CAD, 61.04 INR ; 10 CAD, 610.44 INR ; 20 CAD, 1,220.88 INR ; 50 CAD, 3,052.21 INR.)
+
+SearchResult(url=https://www.thomascook.in/foreign-exchange/currency-converter/inr-to-cad, title=1 INR to CAD - Get Best Rates on INR to Canadian Dollar, description=To know the current INR to the CAD exchange rate, you can speak to our specialist or log on to the Thomas Cook website and head to our currency converter.)
+
+SearchResult(url=https://www.instarem.com/en-us/currency-conversion/inr-to-cad/, title=INR to CAD Exchange Rate – Convert Indian Rupee ..., description=1.0000 INR = CAD Mid-market exchange rate at 11:45 Send money Exchange rates here are informational, reflecting mid-market rates which fluctuate regularly.)
+
+SearchResult(url=https://www.bookmyforex.com/currency-converter/cad-to-inr/, title=CAD to INR | Convert Canadian dollar to Indian Rupee, description=Our online currency converter is showing you the value of 1 Canadian Dollar in Indian Rupees according to the current foreign exchange rate of INR 61.2607.)
+
+SearchResult(url=https://www.bankofcanada.ca/rates/exchange/currency-converter/, title=Currency Converter, description=Conversions are based on Bank of Canada exchange rates, which are published each business day by 16:30 ET. Amount and Currency. Amount. From.)
+
+SearchResult(url=https://www.currency.me.uk/convert/inr/cad, title=Convert Rupees to Canadian Dollars | INR to CAD, description=Latest Currency Exchange Rates: 1 Indian Rupee = 0.0163 Canadian Dollar · Currency Converter · Exchange Rate History For Converting Rupees (INR) to Canadian ...)
+INFO:root:--------------------
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate from Indian Rupees (INR) to Canadian Dollars (CAD) is approximately:
+
+- **1 INR = 0.01634 CAD**
+
+You can find more details and perform conversions using the following resources:
+- [XE Currency Converter](https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=CAD)
+- [Wise Currency Converter](https://wise.com/us/currency-converter/inr-to-cad-rate)
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:{"name":"google_search", "arguments":{"query":"current CAD to INR conversion rate"}}
+
+INFO:root:Calling function: google_search ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:SearchResult(url=https://www.xe.com/currencyconverter/convert/?Amount=1&From=CAD&To=INR, title=1 CAD to INR - Convert Canadian Dollars to Indian Rupees, description=Convert Canadian Dollar to Indian Rupee ; 1 CAD. 61.2101 INR ; 5 CAD. 306.051 INR ; 10 CAD. 612.101 INR ; 25 CAD. 1,530.25 INR ; 50 CAD. 3,060.51 INR.)
+
+SearchResult(url=https://wise.com/us/currency-converter/cad-to-inr-rate, title=Canadian dollars to Indian rupees Exchange Rate. Convert ..., description=Canadian dollars to Indian rupees today. Convert CAD to INR at the real exchange rate ... Conversion rates Indian Rupee / Canadian Dollar. 1 INR, 0.01629 CAD.)
+
+SearchResult(url=https://www.bookmyforex.com/currency-converter/cad-to-inr/, title=CAD to INR | Convert Canadian dollar to Indian Rupee, description=Our online currency converter is showing you the value of 1 Canadian Dollar in Indian Rupees according to the current foreign exchange rate of INR 61.2607.)
+
+SearchResult(url=https://www.forbes.com/advisor/money-transfer/currency-converter/cad-inr/, title=1 CAD To INR Convert Canadian Dollar To Indian Rupee, description=1 CAD = 61.2813 INR Oct 09, 2024 21:05 UTC ... Check the currency rates against all the world currencies here. The currency converter below is easy to use and the ...)
+
+SearchResult(url=https://www.westernunion.com/ca/en/currency-converter/cad-to-inr-rate.html, title=Canadian Dollar to Indian Rupee, description=FX: 1.00 CAD – 61.7314 INR Exchange Rates and Fees shown are estimates, vary by a number of factors including payment and payout methods, and are subject to ...)
+
+SearchResult(url=https://wise.com/us/currency-converter/cad-to-inr-rate/history, title=Canadian dollar to Indian rupees Exchange Rate History, description=The exchange rate for Canadian dollar to Indian rupees is currently 61.293 today, reflecting a -0.338% change since yesterday. Over the past week, the value of ...)
+
+SearchResult(url=https://30rates.com/cad-to-inr-today-forecast-canadian-dollar-to-rupee, title=CAD TO INR TODAY AND FORECAST TOMORROW, ..., description=Current CAD to INR exchange rate equals 61.2102 Rupees per 1 CA Dollar. Today's range: 61.1684-61.5706. Yesterday's rate 61.5053. The change for today -0.2951 ...)
+
+SearchResult(url=https://www.revolut.com/en-US/currency-converter/convert-cad-to-inr-exchange-rate/?amount=1, title=1 CAD to INR | Convert Canadian Dollars to Indian Rupees ..., description=Canadian Dollars to Indian Rupees conversion rates ; 1 INR, 0.01 CAD ; 5 INR, 0.08 CAD ; 10 INR, 0.16 CAD ; 25 INR, 0.40 CAD.)
+
+SearchResult(url=https://dollarrupee.in/cad-to-inr-today-forecast, title=CAD TO INR TODAY AND FORECAST, description=Current CAD to INR exchange rate equals 61.2996 Rupees per 1 Canadian Dollar. Today's range: 61.2399-61.5706. Yesterday's rate 61.5053.)
+
+SearchResult(url=https://www.remitly.com/ca/en/india/pricing, title=CAD to INR Exchange Rates, description=Remitly offers dependable exchange rates for CAD to INR with no hidden fees. Join today and get a promotional rate of 61.66 INR to 1 CAD on your first money ...)
+
+SearchResult(url=https://www.thomascook.in/foreign-exchange/currency-converter/cad-to-inr, title=Canadian Dollar to INR Convert Online, description=Today's conversion rate of CAD to INR is 1 CAD= 61.2 INR. Let's understand how it works with the help of an illustration: Venkatesh is 35 years old, and he ...)
+
+SearchResult(url=https://www.compareremit.com/todays-best-canadian-dollar-to-rupee-exchange-rate/, title=Today's Best Canadian Dollars to Indian Rupees (CAD ..., description=Over the past six months, the highest traded CAD to INR rate was Rs 62.4255 to the dollar on August 11, 2022. The lowest traded rate was Rs 59.2915 with an ...)
+INFO:root:--------------------
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate for 1 Canadian Dollar (CAD) to Indian Rupees (INR) is approximately 61.21 INR. 
+
+Here are some sources for this information:
+- [XE.com](https://www.xe.com/currencyconverter/convert/?Amount=1&From=CAD&To=INR): 1 CAD = 61.2101 INR
+- [Wise.com](https://wise.com/us/currency-converter/cad-to-inr-rate): 1 CAD = 61.2813 INR
+- [BookMyForex](https://www.bookmyforex.com/currency-converter/cad-to-inr/): 1 CAD = 61.2607 INR
+
+Please note that exchange rates may vary slightly depending on the source and market fluctuations.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:hw2_agent_2 is thinking...
+INFO:root:Done
+INFO:root:[blue]hw2_agent_2: 
+INFO:root:The current conversion rate for 1 Canadian Dollar (CAD) to Indian Rupees (INR) is approximately 61.21 INR.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:
+[red]Bye!
