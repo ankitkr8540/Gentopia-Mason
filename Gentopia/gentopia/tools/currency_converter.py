@@ -1,7 +1,6 @@
 import requests
 from typing import AnyStr, Optional, Type, Any
-from pydantic import BaseModel, Field
-from gentopia.tools.basetool import BaseTool
+from gentopia.tools.basetool import *
 
 class CurrencyConverterArgs(BaseModel):
     amount: float = Field(..., description="the amount of money to convert")
